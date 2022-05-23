@@ -259,5 +259,14 @@ header.scrolled {
     flex-direction: column;
     justify-content: space-between;
   }
-
+  
+  .animate.delay {
+    transition-delay: .3s;
+  }
+  
+   .animate.delay-more {
+    transition-delay: .6s;
+  }
+  
+  
 }
